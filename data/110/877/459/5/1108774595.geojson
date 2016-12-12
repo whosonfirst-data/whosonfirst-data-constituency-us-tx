@@ -9,7 +9,7 @@
     "geom:bbox":"-104.102351,28.196837,-98.1169,32.00013",
     "geom:latitude":29.939983,
     "geom:longitude":-101.463245,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":91646021027.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 19",
     "uscensus:sldust":"019",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488354,
     "wof:geomhash":"0bd192b0e93d550465f15f55edc57ba8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774595,
     "wof:lastmodified":1481488354,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

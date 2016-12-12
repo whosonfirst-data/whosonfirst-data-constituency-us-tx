@@ -9,7 +9,7 @@
     "geom:bbox":"-98.2355,27.209271,-97.13513,28.719648",
     "geom:latitude":27.864653,
     "geom:longitude":-97.759632,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8599150993.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 43",
     "uscensus:sldlst":"043",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488291,
     "wof:geomhash":"f1416e5c5f94219b50dc46a03a8eb93c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774311,
     "wof:lastmodified":1481488291,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

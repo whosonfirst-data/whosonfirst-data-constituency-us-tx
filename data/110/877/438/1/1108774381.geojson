@@ -9,7 +9,7 @@
     "geom:bbox":"-105.99801,28.196837,-100.11123,32.00238",
     "geom:latitude":30.51294,
     "geom:longitude":-103.315142,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":95561457285.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 74",
     "uscensus:sldlst":"074",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488306,
     "wof:geomhash":"004897cd9cf7c858b8a3741284c0ed83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774381,
     "wof:lastmodified":1481488306,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

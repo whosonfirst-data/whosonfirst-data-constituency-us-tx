@@ -9,7 +9,7 @@
     "geom:bbox":"-103.0647,32.958548,-100.000389,36.49997",
     "geom:latitude":34.85946,
     "geom:longitude":-101.538024,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":39827809374.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 88",
     "uscensus:sldlst":"088",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488311,
     "wof:geomhash":"6b294b651b5c0c87b17cebed2787d9a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774411,
     "wof:lastmodified":1481488311,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

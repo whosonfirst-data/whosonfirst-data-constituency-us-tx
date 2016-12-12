@@ -9,7 +9,7 @@
     "geom:bbox":"-95.46276,29.551873,-94.91558,29.965983",
     "geom:latitude":29.774879,
     "geom:longitude":-95.228077,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":680209652.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 6",
     "uscensus:sldust":"006",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488349,
     "wof:geomhash":"49110389da21847089b49930bc949c64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774565,
     "wof:lastmodified":1481488349,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

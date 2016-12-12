@@ -9,7 +9,7 @@
     "geom:bbox":"-95.55845,29.620942,-95.33128,29.713943",
     "geom:latitude":29.66862,
     "geom:longitude":-95.426989,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":91050778.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 146",
     "uscensus:sldlst":"146",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488337,
     "wof:geomhash":"5f85ad9e28abc330a0b4ce854d0e4e9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774543,
     "wof:lastmodified":1481488337,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

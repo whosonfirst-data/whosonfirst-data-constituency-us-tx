@@ -9,7 +9,7 @@
     "geom:bbox":"-95.96073,29.908828,-95.5384,30.163683",
     "geom:latitude":30.03262,
     "geom:longitude":-95.74836,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":530398948.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 130",
     "uscensus:sldlst":"130",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488334,
     "wof:geomhash":"903f530b81ec0c008d0861891b4a409f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774507,
     "wof:lastmodified":1481488334,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-95.59813,29.68678,-95.46039,29.748386",
     "geom:latitude":29.719795,
     "geom:longitude":-95.525241,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":47556091.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 137",
     "uscensus:sldlst":"137",
     "uscensus:statefp":"48",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488335,
     "wof:geomhash":"20d15a9552dc9abc5b9365e282107ca0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108774523,
     "wof:lastmodified":1481488335,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688753,
     "wof:repo":"whosonfirst-data-constituency-us-tx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
